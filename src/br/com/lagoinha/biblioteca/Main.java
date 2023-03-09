@@ -23,11 +23,6 @@ public class Main {
         - Gênero (Ficção/Romance)
             - *Nome          String
 
-
-
-
-
-
         À fazer:
         - Controle de quantidades disponíveis (empréstimo/venda)
 
