@@ -25,4 +25,8 @@ public class Autor {
         return autores;
     }
 
+    @Override
+    public String toString() {
+        return "Nome: " + nome;
+    }
 }
